@@ -1,9 +1,0 @@
-No,Type,Class,Count
-1,Training,common_rust,954
-2,Testing,common_rust,238
-3,Training,gray_leaf_spot,410
-4,Testing,gray_leaf_spot,103
-5,Training,healthy,928
-6,Testing,healthy,234
-7,Training,northern_leaf_blight,788
-8,Testing,northern_leaf_blight,197
