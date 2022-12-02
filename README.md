@@ -129,6 +129,6 @@ Accuracy: 0.9969105721</br>
 Validation Loss:0.7328595161</br>
 Validation Accuracy: 0.908292675</br>
 
-Report : https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+Report : https://github.com/SartajBhuvaji/Data-Science-Project/blob/main/Report_Deep%20Mind_Early%20plant%20disease%20detection%20by%20using%20transfer%20learning.pdf
 
 
