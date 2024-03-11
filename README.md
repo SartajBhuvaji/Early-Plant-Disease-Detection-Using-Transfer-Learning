@@ -10,7 +10,7 @@
   <p align="center">
     Team : Deep Mind
     <br />
-    <a href="https://github.com/github_username/repo_name">Sartaj Bhuvaji</a>
+    <a href="https://github.com/SartajBhuvaji">Sartaj Bhuvaji</a>
     ·
     <a href="https://github.com/kadamankitaa">Ankita Kadam</a>
     ·
